@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72348064867",
+    "firebase_url": "https://andrfire-2ccee.firebaseio.com",
+    "project_id": "andrfire-2ccee",
+    "storage_bucket": "andrfire-2ccee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72348064867:android:c12ee1a233942b5e",
+        "android_client_info": {
+          "package_name": "com.samapptech.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72348064867-nqt6qv03odv76n96hdlh9qu3reqpdeoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samapptech.baby_names",
+            "certificate_hash": "08dceb6583eba62c6e141474f2bc3f6d94f91b85"
+          }
+        },
+        {
+          "client_id": "72348064867-2pum9d4as6ek4392etppaqaf69s6hkje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU595527TOa5qgoB8ANGpNs7iZilQqOz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72348064867-2pum9d4as6ek4392etppaqaf69s6hkje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
