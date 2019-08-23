@@ -6,7 +6,7 @@ A new Flutter application. It has integration with firebase  and uses transactio
 
 This project is a starting point for a Flutter application.
 Create a firestore project as shown in the firebase codelab.
-Add it toi your app.
+Add it to your app first.
 
 A few resources to get you started if this is your first Flutter project:
 
